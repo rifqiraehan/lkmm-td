@@ -1,0 +1,65 @@
+AKL (Analisi Kondisi Lingkungan)
+
+Nama kegiatan: Perlombaan Catur antar Mahasiswa Teknik Komputer
+
+5W + 1H
+1. What
+a. Apa kegiatan yang akan dilaksanakan?
+- CE Chess, Acara perlombaan catur antar mahasiswa Teknik Komputer
+
+b. Apa tujuan pelaksanaan kegiatan tersebut?
+- Mengembangkan Keterampilan Berpikir Kritis dan Strategis
+- Menemukan dan mengembangkan bakat-bakat baru dalam olahraga catur di lingkup mahasiswa Teknik Komputer
+
+2. Why
+a. Mengapa kegiatan tersebut harus dilaksanakan?
+- Untuk meningkatkan keterlibatan mahasiswa dalam kegiatan kampus, mengembangkan keterampilan berpikir kritis, dan membangun komunitas yang lebih erat
+
+3.When
+a. Kapan waktu pelaksanaan acara tersebut?
+- 19 - 20 Juli (Jumat, 13.30 WIB - 17.30 WIB; Sabtu, 09.00 WIB - 14.00 WIB)
+
+4. Where
+a. Dimana tempat pelaksanaan kegiatan?
+- Online, melalui aplikasi discord; Hybrid di kelas D4 A-302 dan A-303 pada platform chess.com
+
+5. Who
+a. Siapa yang menjadi panitia acara tersebut?
+- Panitia yang berasal dari Angkatan '23
+
+b. Siapa yang menjadi peserta?
+- Peserta berasal dari seluruh Mahasiswa aktif Teknik Komputer
+
+6. How
+a. Bagaimana peserta dapat mengikuti acara tersebut?
+- Peserta diberikan formulir pendaftaran online menggunakan Google Forms untuk mengumpulkan informasi seperti nama, email, username di chess.com
+
+SWOT
+1. Strength
+a. Panitia memiliki pengalaman di bidang olahraga catur
+- Dampak: Memudahkan dalam membuat peraturan dan ketentuan lomba
+
+b. Banyak mahasiswa angkatan 23 yang bersedia menjadi panitia
+- Dampak: Pelaksanaan acara akan menjadi lebih mudah karena banyaknya panitia yang dapat diajak bekerja sama
+
+2. Weaknesses (Kelemahan)
+a. Panitia angkatan '23 kurang berpengalaman dalam membuat konsep acara
+- Dampak: Timeline acara menjadi tidak teratur
+- Solusi: Sharing dengan yang sudah berpengalaman dalam pembuatan konsep acara
+
+3. Opportunities (Peluang)
+a. Banyaknya mahasiswa Teknik Komputer yang memiliki minat di bidang olahraga catur
+- Dampak: Banyak peserta yang mengikuti acara lomba
+
+b. Terdapat banyak kating yang berpengalaman dalam pembuatan konsep acara
+- Dampak: membantu Angkatan 23 yang masih belum berpengalaman mengonsep cara
+
+4. Threats (Ancaman)
+a. Banyak peserta sudah mendaftar, namun saat hari H tidak hadir
+- Dampak: Acara tidak berjalan lancar
+- Solusi: Peserta bisa melakukan konfirmasi kehadiran 2 jam sebelum acara dimulai
+
+IN: Strength and Weaknesses
+EX: Opportunities and Threats
+Setiap point memiliki dampak
+Weaknesses dan Threats memiliki solusi
